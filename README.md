@@ -17,6 +17,10 @@ System.out.println("code took " + (System.currentTimeMillis() - t) + "ms to run"
 Collection of SQL snippets
 
 ```SQL
+CREATE INDEX user_username_asc ON user(username ASC);
+```
+
+```SQL
 DECLARE @variable VARCHAR(32)
 INSERT INTO comment (column) values ('comment')
 SET @variable = SCOPE_IDENTITY()
