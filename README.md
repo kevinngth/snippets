@@ -2,6 +2,10 @@
 
 This is a collection of some of the code that I use daily, so instead of constantly googling the syntax, I can just refer to this page and copy over to my code. 
 
+## CLI snippets
+
+### [gyp: No Xcode or CLT version detected!](https://gist.github.com/kevinngth/5e4098deaf7d2c89a3266075d0d764f7)
+
 ## Java snippets
 
 ### Stopwatch
